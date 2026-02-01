@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+.h{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: right;
+    margin-right: 5%;
+    margin-top: -4%;
+}
+.ff2{
+    margin-left: 1%;
+}
+.ff3{
+    margin-left: 1%;
+}
+.ff4{
+    margin-left: 1%;
+}
+.container{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+.content{
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    margin-left: 1%;
+    justify-content: space-evenly;
+}
